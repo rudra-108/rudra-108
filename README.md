@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudra-108
+- 👋 Hi, I’m Shan
 - 👀 I’m interested in Indoor positioning system
 - 💞️ I’m looking to collaborate on Python,Core java, Nodejs, C++ backend projects
 - 📫 How to reach me ...
