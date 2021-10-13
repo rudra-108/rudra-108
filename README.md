@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shan
-- 👀 I’m interested in Indoor positioning system
+- 👀 I’m interested in Machine Learning, AI, RTLS of Indoor positioning system
 - 💞️ I’m looking to collaborate on Python,Core java, Nodejs, C++ backend projects
-- 📫 How to reach me ...
+- 📫 ping me at santanu.magai@gmail.com
 
 <!---
 rudra-108/rudra-108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
